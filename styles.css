@@ -22,7 +22,7 @@ body{
     }
    
     .chamada-texto{
-        margin-right: 5%;
+     margin-right: 5%;
     img{height: 200px;}
    
     h1{
@@ -30,5 +30,4 @@ body{
     }
     p{
         font: size 60px;
-   
-
+        
